@@ -1,8 +1,13 @@
 {
-  "name": "music-player-frontend-",
-  "private": false,
+ 
+  "name": "illu-music-player",  
   "version": "1.0.0",
-  "type": "module",
+  "description": "A React + Vite music player frontend",
+  "main": "src/main.jsx",      
+  "keywords": ["music", "player", "react", "vite"],
+  "author": "Your Name",
+  "license": "MIT",
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
